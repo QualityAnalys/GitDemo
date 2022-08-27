@@ -10,6 +10,10 @@ public class RestAPITest {
 		System.out.println("postJira");
 		System.out.println("Post jira 2");
 		System.out.println("post jira 3");
+		System.out.println("post jira dd4");
+		System.out.println("post jira tt");
+		System.out.println("post jira yy");
+		System.out.println("post jira uuuu");
 	}
 	
 	@Test
