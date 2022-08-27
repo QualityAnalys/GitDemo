@@ -23,4 +23,9 @@ public class SelenimTest {
 	{
 		System.out.println("elementsui");
 	}
+	@Test
+	public void elementsuilleeeeee()
+	{
+		System.out.println("elementsui");
+	}
 }
